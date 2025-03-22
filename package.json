@@ -1,0 +1,13 @@
+{
+  "name": "simulador-de-vehiculo",
+  "version": "1.0.0",
+  "description": "Proyecto ideado por el profesor Gerardo Martin Gonzalez Tulian:",
+  "main": "test.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
