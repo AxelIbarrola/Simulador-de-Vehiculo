@@ -1,6 +1,6 @@
 ## Proyecto original
 
-Proyecta ideado por el profesor Gerardo Martin Gonzalez Tulian:
+Proyecto ideado por el profesor Gerardo Martin Gonzalez Tulian:
 
 [Repositorio](https://github.com/LabPrograma/simulador_vehiculo)
 
@@ -61,36 +61,3 @@ Para lanzar un exepción de manera simple y no chequeda pueden hacer
 2. Cambiar dos veces el tipo de conducción
 3. Avanzar 75 kilómetros
 4. Verificar que se produjo la RuntimeException "Combustible insuficiente, solo pude recorrer 65 del total de 75.0 kilometros." y que el auto queden con 65.0 kilomentros y con 0.0 litros de combustible.
-
-## Comandos Utiles
-
-Luego de clonarse el repositorio y tenerlo descargado en su disco local, deben posicionar en la carpeta donde clonaron el proyecto
-
-```bash
-git clone https://github.com/LabPrograma/simulador_vehiculo.git
-cd simulador_vehiculo
-```
-
-### Instalar las dependencias.
-
-Lo primero que tiene que hacer es instalar las dependecias del proyecto con el siguiente comando
-
-```bash
-npm i
-```
-
-### Correr los test
-
-Para correr los test del proyecto
-
-```bash
-npm test
-```
-
-### Correr en modo desarrollo
-
-Para correr el proyecto en mode desarrollo e ir tocando codigo sin detener el programa usar el siguiente comando
-
-```bash
-npm run dev
-```
