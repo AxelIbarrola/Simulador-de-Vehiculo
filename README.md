@@ -1,3 +1,9 @@
+## Proyecto original
+
+Proyecta ideado por el profesor Gerardo Martin Gonzalez Tulian:
+
+[Repositorio](https://github.com/LabPrograma/simulador_vehiculo)
+
 ## Simulador de Vehículos
 
 Se solicita modelar los componentes necesarios para desarrollar una funcionalidad simple de un software de simulación de vehículos.
